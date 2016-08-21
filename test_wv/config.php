@@ -2,9 +2,9 @@
 
 // Define database parameters
 define( 'DB_HOST', 'localhost' );
-define( 'DB_USER', 'root' );
-define( 'DB_PASS', '' );
-define( 'DB_NAME', 'test_worldvision' );
+define( 'DB_USER', 'your-database-user' );
+define( 'DB_PASS', 'your-database-password' );
+define( 'DB_NAME', 'your-database-name' );
 
 function baseUrl()
 {
