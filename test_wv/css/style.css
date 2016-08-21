@@ -1,0 +1,15 @@
+body {
+  padding-top: 100px;
+}
+
+ul.nav {
+  padding-right: 15px;
+}
+
+footer {
+  padding-top: 25px;
+}
+
+.bs-component > ul.nav {
+  padding-top: 50px;
+}
